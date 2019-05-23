@@ -1,6 +1,9 @@
 # Comments on R
 
-This Repo is for teaching how to perform pull requests from GitHub.
+This Repo is for teaching how to perform pull requests from GitHub as part of:
+
++ [Getting Started with Git and GitHub for R Users ](https://github.com/saghirb/Getting-Started-with-Git-and-GitHub-for-R-Users)
+workshop.
 
 ## How to work with this Repro
 
@@ -10,3 +13,14 @@ This Repo is for teaching how to perform pull requests from GitHub.
     + Save the file in Github.
 3. Then create a "New Pull Request"
 4. Submit your pull request.
+
+## Collaboration 
+
+This is one way of collaborating with others. In reality you will most likely
+need to follow some other workflow when creating pull requests. That is outside
+the scope of the [Getting Started with Git and GitHub for R Users ](https://github.com/saghirb/Getting-Started-with-Git-and-GitHub-for-R-Users)
+workshop.
+
+## Outcome
+
+The intention is to accept all the pull requests and let you see all the comments.
