@@ -35,4 +35,8 @@ Please use the following format:
 + Fun to teach
 + As you can see I am biased ;)
 
+## Tiago A. Marques
 
++ R is my go to software
++ The answer to can you do X with R is almost alwyas yes!
++ Saghir makes it better
