@@ -35,4 +35,8 @@ Please use the following format:
 + Fun to teach
 + As you can see I am biased ;)
 
+## Patrícia Soares
 
++ Git is cool
++ It's a bit strange to edit a document in GitHub
++ But it's actually an interesting feature
