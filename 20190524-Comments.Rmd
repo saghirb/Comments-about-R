@@ -29,14 +29,20 @@ Please use the following format:
 ```
 # FCUL Participant Feedback
 
-## Saghir Bashir
+## joaomribeiro1
 
 + R is free software (with source code)
-+ Fun to teach
-+ As you can see I am biased ;)
++ R is better than other software
++ we can improve every timme we use R
 
 ## Patrícia Soares
 
 + Git is cool
 + It's a bit strange to edit a document in GitHub
 + But it's actually an interesting feature
+
+## Tiago A. Marques
+
++ R is my go to software
++ The answer to can you do X with R is almost alwyas yes!
++ Saghir makes it better
