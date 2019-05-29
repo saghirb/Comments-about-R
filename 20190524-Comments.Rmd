@@ -35,6 +35,12 @@ Please use the following format:
 + R is better than other software
 + we can improve every timme we use R
 
+## Patrícia Soares
+
++ Git is cool
++ It's a bit strange to edit a document in GitHub
++ But it's actually an interesting feature
+
 ## Tiago A. Marques
 
 + R is my go to software
