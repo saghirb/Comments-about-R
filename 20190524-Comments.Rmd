@@ -46,3 +46,9 @@ Please use the following format:
 + R is my go to software
 + The answer to can you do X with R is almost alwyas yes!
 + Saghir makes it better
+
+## Frederico Moreira
+
++ R is very useful
++ It's intuitive
++ It has a lot of colours
