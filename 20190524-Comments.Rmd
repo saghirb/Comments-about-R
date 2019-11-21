@@ -24,8 +24,8 @@ Please use the following format:
 ## Hugo Anjos(or Anjos96)
 
 + Amazing control on every feature
-+ Easy to learn, dificult to master
 + Free
++ Don´t really have another choise
 ```
 # FCUL Participant Feedback
 
