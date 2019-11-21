@@ -21,11 +21,11 @@ output:
 
 Please use the following format:
 ```
-## Your Name (or GitHub Username)
+## Hugo Anjos(or Anjos96)
 
-+ Comment 1 here
-+ Comment 2 here
-+ Comment 3 here
++ Amazing control on every feature
++ Easy to learn, dificult to master
++ Free
 ```
 # FCUL Participant Feedback
 
