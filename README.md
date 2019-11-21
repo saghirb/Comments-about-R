@@ -24,3 +24,9 @@ workshop.
 ## Outcome
 
 The intention is to accept all the pull requests and let you see all the comments.
+
+## Lauri Varmann
+
++ R is great for making graphs and plots.
++ R is useful for doing statistics.
++ R is freeware.
