@@ -46,3 +46,8 @@ Please use the following format:
 + R is my go to software
 + The answer to can you do X with R is almost alwyas yes!
 + Saghir makes it better
+
+## Margarida Ribeiro
++ R is the software that i learn more in uni
++ R is easy to use
++ Workshops about R turns R better
