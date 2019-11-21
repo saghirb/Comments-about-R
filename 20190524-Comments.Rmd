@@ -49,6 +49,7 @@ Please use the following format:
 
 
 ## Jorge Goncalves
+
 + R is dynamic
 + R is flexible
 + R is powerful
