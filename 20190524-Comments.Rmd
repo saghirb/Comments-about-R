@@ -58,3 +58,9 @@ Please use the following format:
 + R is a really useful tool
 + The ability to customize everything is a plus
 + Looking forward to keep learning it
+
+## Raquel Baltazar
+
++ My journey with learning R has been bumpy but eye opening! I am susprised with what I've learned. I have grown to be more patient and kind towards myself and am excited to keep improving!
++ I am learning a lot from Saghir, he is a really patient mentor 
++ GitHub is a new confusing world, but I can't wait until I am comfortable and can master it!
